@@ -1,0 +1,22 @@
+{
+  "name": "jest-node-16",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest --silent -i",
+    "test:gc": "node --expose-gc ./node_modules/.bin/jest --silent -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiz290788/jest-node-16.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiz290788/jest-node-16/issues"
+  },
+  "homepage": "https://github.com/luiz290788/jest-node-16#readme",
+  "description": ""
+}
